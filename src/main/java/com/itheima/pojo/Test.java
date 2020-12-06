@@ -11,4 +11,6 @@ import com.oracle.xmlns.internal.webservices.jaxws_databinding.ExistingAnnotatio
 public class Test {
     private  int age;
     private String name;
+
+    private String getName;
 }
